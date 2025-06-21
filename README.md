@@ -1,5 +1,3 @@
-# Hotel-Casa-Colonial
-Infografia de Hotel Casa Colonial San Antonio del Tachira
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -409,3 +407,4 @@ Infografia de Hotel Casa Colonial San Antonio del Tachira
     </script>
 </body>
 </html>
+
